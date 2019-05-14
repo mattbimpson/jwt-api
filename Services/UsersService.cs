@@ -30,11 +30,11 @@ namespace JwtApi.Services
         {
             var user = _users.SingleOrDefault(x => x.Username == username && x.Password == password);
 
-            // return null if user not found
+            // not found
             if (user == null)
                 return null;
 
-            // authentication successful so generate jwt token
+            // successful
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_appSettings.Secret);
             var tokenDescriptor = new SecurityTokenDescriptor

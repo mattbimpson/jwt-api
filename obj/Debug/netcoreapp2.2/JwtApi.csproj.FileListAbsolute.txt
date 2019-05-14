@@ -11,4 +11,3 @@ C:\dev\JwtApi\obj\Debug\netcoreapp2.2\JwtApi.RazorTargetAssemblyInfo.cache
 C:\dev\JwtApi\bin\Debug\netcoreapp2.2\JwtApi.pdb
 C:\dev\JwtApi\obj\Debug\netcoreapp2.2\JwtApi.dll
 C:\dev\JwtApi\obj\Debug\netcoreapp2.2\JwtApi.pdb
-C:\dev\JwtApi\obj\Debug\netcoreapp2.2\JwtApi.csprojAssemblyReference.cache

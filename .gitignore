@@ -9,3 +9,6 @@
 [D]debug/
 *.cache
 *.pdb
+bin/
+.vs/
+obj/
